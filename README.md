@@ -351,3 +351,6 @@ wsa://com.android.settings
 | Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 is unsupported ||
 | Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
 | BBC iPlayer | 4.137.0.25403 | ✅ | Sideloaded ||
+| Clash of clans | 14.426.1 | ❌ | crash on startup 
+| Clash Royale | 3.2729.1 | ❌ | crash on startup
+| Flight radar | 8.18.5 | ✅ | zooming in and out is a bit wonky
